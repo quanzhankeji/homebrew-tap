@@ -2,7 +2,7 @@ cask "omnidock" do
   version "1.0"
   sha256 "4f0678d34ed01f848ddb565f89d82c61fb0c97befaa54ddbaa895fd9f23969c6"
 
-  url "https://github.com/quanzhankeji/OmniDock/releases/download/#{version}/OmniDock-#{version}-build-3.zip"
+  url "https://github.com/quanzhankeji/OmniDock/releases/download/#{version}/OmniDock-#{version}.zip"
   name "OmniDock"
   desc "Dock window previews, app toggling, and per-app keyboard shortcuts"
   homepage "https://github.com/quanzhankeji/OmniDock"

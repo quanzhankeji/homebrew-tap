@@ -2,7 +2,7 @@ cask "omnidock" do
   version "__VERSION__"
   sha256 "__SHA256__"
 
-  url "https://github.com/quanzhankeji/OmniDock/releases/download/#{version}/OmniDock-#{version}-build-__BUILD__.zip"
+  url "https://github.com/quanzhankeji/OmniDock/releases/download/#{version}/OmniDock-#{version}.zip"
   name "OmniDock"
   desc "Dock window previews, app toggling, and per-app keyboard shortcuts"
   homepage "https://github.com/quanzhankeji/OmniDock"
